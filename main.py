@@ -78,4 +78,4 @@ async def skip(ctx):
         ctx.voice_client.stop()
         await ctx.send("Skipped! ⏭️")
 
-bot.run('MTQ3NTA3NDAxMzMzNTEyNjE5Nw.G6DMk2.G36gxueVOXUTkExKJvbh8z7mWDSqbmyn6XO4d0')
+bot.run('MTQ3NTA3NDAxMzMzNTEyNjE5Nw.GWSoit.LW2aGa2sJe98qygyaEKufRlrelMBHRrx96xOks')
